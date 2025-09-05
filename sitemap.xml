@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Halaman utama -->
   <url>
     <loc>https://adizar-dev.github.io/programing_aldizarsiritoitet.io/</loc>
     <priority>1.0</priority>
   </url>
+  
+  <!-- Section Tentang Saya -->
+  <url>
+    <loc>https://adizar-dev.github.io/programing_aldizarsiritoitet.io/#tentang-saya</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Section Premium Course -->
+  <url>
+    <loc>https://adizar-dev.github.io/programing_aldizarsiritoitet.io/#premium-course</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Section Free Course -->
+  <url>
+    <loc>https://adizar-dev.github.io/programing_aldizarsiritoitet.io/#free-course</loc>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
